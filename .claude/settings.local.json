@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(grep -E \"^\\(\\\\s*\\(\\\\[|CHECK|MIDLAND|=|ALL|FAILURES|Wolfcamp [A-D]|Upper|Middle|Lower|NOTE|all 7|recommended|\\\\\\(rebuilding\\)\\)|^$\\)\")"
+    ]
+  }
+}
